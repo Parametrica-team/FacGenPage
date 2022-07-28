@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "./static/css/main.70637055.css",
-    "main.js": "./static/js/main.806c3470.js",
-    "static/js/787.5ac8f6dd.chunk.js": "./static/js/787.5ac8f6dd.chunk.js",
-    "service-worker.js": "./service-worker.js",
-    "index.html": "./index.html",
-    "main.70637055.css.map": "./static/css/main.70637055.css.map",
-    "main.806c3470.js.map": "./static/js/main.806c3470.js.map",
-    "787.5ac8f6dd.chunk.js.map": "./static/js/787.5ac8f6dd.chunk.js.map"
+    "main.css": "/Parametrica-team/FacGenPage/static/css/main.70637055.css",
+    "main.js": "/Parametrica-team/FacGenPage/static/js/main.44bfeda7.js",
+    "static/js/787.5ac8f6dd.chunk.js": "/Parametrica-team/FacGenPage/static/js/787.5ac8f6dd.chunk.js",
+    "service-worker.js": "/Parametrica-team/FacGenPage/service-worker.js",
+    "index.html": "/Parametrica-team/FacGenPage/index.html",
+    "main.70637055.css.map": "/Parametrica-team/FacGenPage/static/css/main.70637055.css.map",
+    "main.44bfeda7.js.map": "/Parametrica-team/FacGenPage/static/js/main.44bfeda7.js.map",
+    "787.5ac8f6dd.chunk.js.map": "/Parametrica-team/FacGenPage/static/js/787.5ac8f6dd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.70637055.css",
-    "static/js/main.806c3470.js"
+    "static/js/main.44bfeda7.js"
   ]
 }
