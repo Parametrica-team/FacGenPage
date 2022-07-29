@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/FacGenPage/static/css/main.70637055.css",
-    "main.js": "/FacGenPage/static/js/main.7af32b4f.js",
+    "main.css": "/FacGenPage/static/css/main.aa5a191d.css",
+    "main.js": "/FacGenPage/static/js/main.c8784176.js",
     "static/js/787.5ac8f6dd.chunk.js": "/FacGenPage/static/js/787.5ac8f6dd.chunk.js",
     "service-worker.js": "/FacGenPage/service-worker.js",
     "index.html": "/FacGenPage/index.html",
-    "main.70637055.css.map": "/FacGenPage/static/css/main.70637055.css.map",
-    "main.7af32b4f.js.map": "/FacGenPage/static/js/main.7af32b4f.js.map",
+    "main.aa5a191d.css.map": "/FacGenPage/static/css/main.aa5a191d.css.map",
+    "main.c8784176.js.map": "/FacGenPage/static/js/main.c8784176.js.map",
     "787.5ac8f6dd.chunk.js.map": "/FacGenPage/static/js/787.5ac8f6dd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.70637055.css",
-    "static/js/main.7af32b4f.js"
+    "static/css/main.aa5a191d.css",
+    "static/js/main.c8784176.js"
   ]
 }
